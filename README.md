@@ -1,16 +1,146 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Elias Marín</h1>
 
-<!--
-**eliasmarin2390/eliasmarin2390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🎓 Estudiante de Ingeniería en Sistemas | 💻 Desarrollador de Software | 🤖 Automatización RPA
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Apasionado por el desarrollo de software, aplicaciones móviles, automatización de procesos y el aprendizaje continuo.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:tu_correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 👨‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería en Sistemas**.
+- 💻 Desarrollo de software de escritorio, web y móvil.
+- 📱 Desarrollo Android con **Kotlin** y **Jetpack Compose**.
+- 🤖 Automatización de procesos utilizando **UiPath (RPA)**.
+- 🗄️ Manejo de bases de datos con **SQL Server**.
+- 🌱 Siempre aprendiendo nuevas tecnologías.
+
+---
+
+# 🛠 Lenguajes de Programación
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin"/>
+
+</p>
+
+---
+
+# 🚀 Tecnologías
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,mysql,sqlite"/>
+
+</p>
+
+---
+
+# 🤖 Automatización e IoT
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/UiPath-RPA-orange?style=for-the-badge&logo=uipath"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+</p>
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- 🔹 Arquitectura de Software
+- 🔹 Android Avanzado
+- 🔹 Automatización con UiPath
+- 🔹 SQL Server
+- 🔹 Git y GitHub
+
+---
+
+# 🚀 Algunos proyectos
+
+📱 **MindTrack**  
+Aplicación Android desarrollada con Kotlin y Jetpack Compose.
+
+💊 **FarmalinkDB**  
+Proyecto de bases de datos utilizando SQL Server.
+
+📋 **UAM Tasks**  
+Gestor académico desarrollado en Kotlin.
+
+🤖 **Automatizaciones RPA**  
+Bots desarrollados con UiPath.
+
+---
+
+# 📊 Estadísticas
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasmarin2390&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmarin2390&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=eliasmarin2390&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Actividad
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eliasmarin2390&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=eliasmarin2390&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📫 Contacto
+
+- 📍 Managua, Nicaragua
+- 🎓 Ingeniería en Sistemas
+- 💻 Siempre abierto a aprender y colaborar.
+
+---
+
+<div align="center">
+
+### ⭐ Gracias por visitar mi perfil ⭐
+
+</div>
