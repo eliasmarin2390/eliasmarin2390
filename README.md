@@ -10,7 +10,7 @@ Apasionado por el desarrollo de software, aplicaciones móviles, automatización
 
 <p align="center">
   <a href="mailto:eliasmarinc28@gmail.com">
-    <img src="https://img.shields.io/badge/eliasmarinc28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
@@ -108,10 +108,11 @@ Bots desarrollados con UiPath.
 
 ---
 
-# 📫 Contacto
+# 📬 Contacto
 
-<a href="mailto:eliasmarinc28@gmail.com">eliasmarinc28@gmail.com</a>
-
+<p align="center">
+eliasmarinc28@gmail.com
+</p>
 ---
 
 <div align="center">
