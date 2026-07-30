@@ -110,9 +110,7 @@ Bots desarrollados con UiPath.
 
 # 📫 Contacto
 
-- 📍 Managua, Nicaragua
-- 🎓 Ingeniería en Sistemas
-- 💻 Siempre abierto a aprender y colaborar.
+<a href="mailto:eliasmarinc28@gmail.com">eliasmarinc28@gmail.com</a>
 
 ---
 
