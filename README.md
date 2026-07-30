@@ -55,18 +55,6 @@ Apasionado por el desarrollo de software, aplicaciones móviles, automatización
 
 ---
 
-# 🤖 Automatización e IoT
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/UiPath-RPA-orange?style=for-the-badge&logo=uipath"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-</p>
-
----
-
 # 📚 Actualmente aprendiendo
 
 - 🔹 Arquitectura de Software
@@ -84,9 +72,6 @@ Aplicación Android desarrollada con Kotlin y Jetpack Compose.
 
 💊 **FarmalinkDB**  
 Proyecto de bases de datos utilizando SQL Server.
-
-📋 **UAM Tasks**  
-Gestor académico desarrollado en Kotlin.
 
 🤖 **Automatizaciones RPA**  
 Bots desarrollados con UiPath.
